@@ -1,0 +1,11 @@
+ver 1.00
+
+added:
+Watermark on menu
+mouse compatibility
+
+changes:
+replaced keyboard keys with buttons
+replaced Turtle Pen with melon player model
+seperated shop and settings
+combined powermin/powermax to powerup spawn range
