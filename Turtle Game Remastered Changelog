@@ -11,3 +11,5 @@ replaced keyboard keys with buttons
 replaced Turtle Pen with melon player model
 seperated shop and settings
 combined powermin/powermax to powerup spawn range
+buffed fieldsize upgrade +10->+20
+buffed powerup_spawn_upgrade -1s->-2s
