@@ -16,3 +16,6 @@ buffed powerup_spawn_upgrade -1s->-2s
 changed round_up fieldsize to next 5 -> round fieldsize to 20
 increased player hitbox
 increased enemy hitbox
+changed playermodel
+changed enemy model
+changed enemy tracer line
