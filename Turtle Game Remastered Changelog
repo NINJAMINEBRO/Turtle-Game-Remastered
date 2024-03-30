@@ -13,3 +13,4 @@ seperated shop and settings
 combined powermin/powermax to powerup spawn range
 buffed fieldsize upgrade +10->+20
 buffed powerup_spawn_upgrade -1s->-2s
+changed round_up fieldsize to next 5 -> round fieldsize to 20
