@@ -23,3 +23,9 @@ changed enemy model
 changed enemy tracer line
 increased smallest fieldsize 50 -> 100
 buffed bigger field upgrade +50 -> +60
+limited next field timer to 30sek
+limited lowest enemy speed to 100
+limited points/s to 1/s
+limited player speed to 250
+limited multiplier to 16
+limited powerup spawn range to 10 to 15 seconds
