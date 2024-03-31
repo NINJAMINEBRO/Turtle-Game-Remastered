@@ -19,3 +19,5 @@ increased enemy hitbox
 changed playermodel
 changed enemy model
 changed enemy tracer line
+increased smallest fieldsize 50 -> 100
+buffed bigger field upgrade +50 -> +60
