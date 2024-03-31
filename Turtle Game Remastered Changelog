@@ -4,6 +4,7 @@ added:
 Watermark on menu
 mouse compatibility
 custom controls
+speed powerup
 
 changes:
 replaced turtle with pygame
