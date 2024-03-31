@@ -9,6 +9,7 @@ changes:
 replaced turtle with pygame
 replaced keyboard keys with buttons
 replaced Turtle Pen with melon player model
+replaced enemy Turtle Pen with monkey enemy model
 seperated shop and settings
 combined powermin/powermax to powerup spawn range (price increase 68->319)
 buffed fieldsize upgrade +10->+20
