@@ -33,3 +33,4 @@ limited points/s to 1/s
 limited player speed to 250
 limited multiplier to 16
 limited powerup spawn range to 10 to 15 seconds
+after the field shrunk 12 times, the enemy speed and bullet speed will increase by 10 for every time the field tries to shrink
