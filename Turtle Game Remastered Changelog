@@ -5,6 +5,9 @@ Watermark on menu
 mouse compatibility
 custom controls
 speed powerup
+multiplier powerup
+shop discount powerup
+Itch Button
 
 changes:
 replaced turtle with pygame
