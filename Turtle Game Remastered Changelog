@@ -8,6 +8,7 @@ speed powerup
 multiplier powerup
 shop discount powerup
 Itch Button
+Limit break for every powerup in shop
 
 changes:
 replaced turtle with pygame
