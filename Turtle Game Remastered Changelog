@@ -9,6 +9,8 @@ multiplier powerup
 shop discount powerup
 Itch Button
 Limit break for every powerup in shop
+Update Button
+Animations disable button
 
 changes:
 replaced turtle with pygame
