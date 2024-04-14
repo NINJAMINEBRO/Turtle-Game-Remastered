@@ -14,21 +14,19 @@ changes:
 replaced turtle with pygame
 replaced keyboard keys with buttons
 replaced Turtle Pen with melon player model
-replaced enemy Turtle Pen with monkey enemy model
+replaced killer Turtle Pen with monkey killwe model
 seperated shop and settings
 combined powermin/powermax to powerup spawn range (price increase 68->319)
 buffed fieldsize upgrade +10->+20
 buffed powerup_spawn_upgrade -1s->-2s
 changed round_up fieldsize to next 5 -> round fieldsize to 20
 increased player hitbox
-increased enemy hitbox
-changed playermodel
-changed enemy model
-changed enemy tracer line
+increased killer hitbox
+changed killer tracer line
 increased smallest fieldsize 50 -> 100
 buffed bigger field upgrade +50 -> +60
 limited next field timer to 30sek
-limited lowest enemy speed to 100
+limited lowest killer speed to 100
 limited points/s to 1/s
 limited player speed to 250
 limited multiplier to 16
