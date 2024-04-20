@@ -1,36 +1,3 @@
 ver 1.00
 
-added:
-Watermark on menu
-mouse compatibility
-custom controls
-speed powerup
-multiplier powerup
-shop discount powerup
-Itch Button
-Limit break for every powerup in shop
-Update Button
-Animations disable button
-
-changes:
-replaced turtle with pygame
-replaced keyboard keys with buttons
-replaced Turtle Pen with melon player model
-replaced killer Turtle Pen with monkey killwe model
-seperated shop and settings
-combined powermin/powermax to powerup spawn range (price increase 68->319)
-buffed fieldsize upgrade +10->+20
-buffed powerup_spawn_upgrade -1s->-2s
-changed round_up fieldsize to next 5 -> round fieldsize to 20
-increased player hitbox
-increased killer hitbox
-changed killer tracer line
-increased smallest fieldsize 50 -> 100
-buffed bigger field upgrade +50 -> +60
-limited next field timer to 30sek
-limited lowest killer speed to 100
-limited points/s to 1/s
-limited player speed to 250
-limited multiplier to 16
-limited powerup spawn range to 10 to 15 seconds
-after the field shrunk 12 times, the enemy speed and bullet speed will increase by 10 for every time the field tries to shrink
+added and changed a lot from the previous game.
