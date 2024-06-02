@@ -1,3 +1,6 @@
+ver 1.02
+bug hotfix where you gain 500 skillpoints every time the game reads the save file (I forgot to delete that line in the code)
+
 ver 1.01
 bug hotfix quests with scores would crash game and reset save file on quest menu loading
 
