@@ -1,3 +1,8 @@
+ver 1.1
+changes:
+  you are now able to disable the "points*mult" and "powerp picked up" stat in the settings
+  you multiplier now increases by 0.01 per stat disabled
+
 ver 1.02
 bug hotfix where you gain 500 skillpoints every time the game reads the save file (I forgot to delete that line in the code)
 
